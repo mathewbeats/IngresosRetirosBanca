@@ -1,4 +1,5 @@
-Sistema Ingresos Retiros Banca .NET8(Proyecto de consola)
+Banking Management System
+
 Descripción
 El Banking Management System es una aplicación de consola desarrollada en C# que permite la gestión de cuentas de ahorros. Los usuarios pueden realizar operaciones de creación de cuenta, depósitos y retiros. La aplicación utiliza una pila (Stack) para almacenar y manejar las transacciones, y utiliza eventos para actualizar la consola en tiempo real con los detalles de cada operación.
 
